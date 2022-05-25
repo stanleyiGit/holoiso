@@ -153,7 +153,8 @@ wireplumber
 pipewire-pulse
 pipewire-v4l2
 plasma-meta
-plasma-nmprint-manager
+plasma-nm
+print-manager
 spectacle
 steam-jupiter-stable
 steamdeck-kde-presets
